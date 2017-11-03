@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 line0
 line1 1111
-=======
->>>>>>> branch01
 line2
